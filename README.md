@@ -6,16 +6,19 @@
 
 This repository represents " Book Recommmendation System ".
 With the help of this project we can predict and recommend books to user based on their interested genre or book
+
 📝 Description
 This model is made to predict and recommend books for user based on their interested genre or book. The model is based on the mathematical concept Cosine Similarity
+
 ⏳ Dataset
 Download the dataset:
 https://gist.github.com/jaidevd/23aef12e9bf56c618c41
-🖥️ Installation
+
 🛠️ Requirements
 Python 3.5+
 Streamlit
 Windows
+
 ⚙️ Setup
 Install Streamlit :-
 pip install streamlit
