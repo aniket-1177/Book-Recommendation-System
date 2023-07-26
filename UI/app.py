@@ -3,8 +3,8 @@ import pandas as pd
 import difflib
 import pickle
 
-df = pickle.load(open('Book_list.pkl', 'rb'))
-similarity = pickle.load(open('similarity.pkl', 'rb'))
+df = pickle.load(open('UI/Book_list.pkl', 'rb'))
+similarity = pickle.load(open('UI/similarity.pkl', 'rb'))
 
 
 import streamlit as st
