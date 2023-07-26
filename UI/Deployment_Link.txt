@@ -1,0 +1,2 @@
+The Link to app deployment in streamlit:
+https://book-recommendation-system-jza5cbjy97j.streamlit.app/
